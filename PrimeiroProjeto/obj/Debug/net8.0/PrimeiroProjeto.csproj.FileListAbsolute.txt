@@ -1,0 +1,42 @@
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.exe
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.deps.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.runtimeconfig.json
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.AssemblyInfo.cs
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\refint\PrimeiroProjeto.dll
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.pdb
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\PrimeiroProjeto.genruntimeconfig.cache
+F:\HDD Carlos\Documents\Cursos\Udemy - C#\3 - Recap Lógica de Programação\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net8.0\ref\PrimeiroProjeto.dll
